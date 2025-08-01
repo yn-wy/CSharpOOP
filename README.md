@@ -12,6 +12,6 @@ Github Desktop.
 
 ### Executing the code
 Navigate to the desired exercise directory.
-- For Visual Studio, open the solution file in the directory.
+- For Visual Studio, open the file with the extension `.csproj` in the directory.
 - For other IDE or editor, refer to their documentations.
-- For excuting from command line, run the command `dotnet run`.
+- For executing from command line, run the command `dotnet run`.
